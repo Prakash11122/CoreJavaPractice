@@ -1,7 +1,5 @@
 package com.it.pradhan.streamQuestions;
 
-import javax.print.attribute.IntegerSyntax;
-
 public class B {
 	public static void main(String[] args) {
 		A a = new A() {
