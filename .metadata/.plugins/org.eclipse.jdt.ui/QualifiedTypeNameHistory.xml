@@ -1,29 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.it.pradhan.stream.User"/>
-    <fullyQualifiedTypeName name="java.util.stream.Stream"/>
-    <fullyQualifiedTypeName name="com.it.pradhan.string.RemoveDuplicateString"/>
-    <fullyQualifiedTypeName name="com.it.prauge.Test"/>
-    <fullyQualifiedTypeName name="com.it.prauge.Parent"/>
-    <fullyQualifiedTypeName name="com.it.prauge.Child"/>
-    <fullyQualifiedTypeName name="com.it.prauge.parent"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="com.it.pradhan.Person"/>
-    <fullyQualifiedTypeName name="java.util.function.Predicate"/>
     <fullyQualifiedTypeName name="java.lang.Runnable"/>
     <fullyQualifiedTypeName name="com.it.pradhan.Demo"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
     <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
     <fullyQualifiedTypeName name="com.it.codedecode.LambdaDemo"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.util.function.BiConsumer"/>
     <fullyQualifiedTypeName name="com.it.codedecode.DefaultMethod"/>
     <fullyQualifiedTypeName name="com.it.codedecode.Car"/>
     <fullyQualifiedTypeName name="java.util.HashSet"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.util.Set"/>
-    <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
     <fullyQualifiedTypeName name="com.it.codedecode.Question2"/>
     <fullyQualifiedTypeName name="com.it.codedecode.MultiplyNum"/>
     <fullyQualifiedTypeName name="com.it.oops.MyAbstarctMain"/>
@@ -48,8 +36,6 @@
     <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="com.it.pradhan.stream.Employees"/>
     <fullyQualifiedTypeName name="com.it.pradhan.stream.Employeess"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="com.it.pradhan.Employee"/>
     <fullyQualifiedTypeName name="java.util.Collections"/>
     <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
@@ -60,4 +46,18 @@
     <fullyQualifiedTypeName name="com.question3.AbstractDemo"/>
     <fullyQualifiedTypeName name="com.question3.MyAbstractClass2"/>
     <fullyQualifiedTypeName name="com.question3.AbstractDemo2"/>
+    <fullyQualifiedTypeName name="com.it.pradhan.lambda.Car"/>
+    <fullyQualifiedTypeName name="com.it.pradhan.lambda.Vehicle"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.function.Predicate"/>
+    <fullyQualifiedTypeName name="java.util.function.Function"/>
+    <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="com.it.pradhan.streamQuestions.BananaTree"/>
+    <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
+    <fullyQualifiedTypeName name="com.it.pradhan.streamQuestions.A"/>
+    <fullyQualifiedTypeName name="javax.print.attribute.IntegerSyntax"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.it.pradhan.streamQuestions.Employee"/>
 </qualifiedTypeNameHistroy>
