@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.it.codedecode.Car"/>
-    <fullyQualifiedTypeName name="java.util.HashSet"/>
-    <fullyQualifiedTypeName name="java.util.Set"/>
-    <fullyQualifiedTypeName name="com.it.codedecode.Question2"/>
-    <fullyQualifiedTypeName name="com.it.codedecode.MultiplyNum"/>
-    <fullyQualifiedTypeName name="com.it.oops.MyAbstarctMain"/>
     <fullyQualifiedTypeName name="com.it.oops.MyAbstractClass"/>
     <fullyQualifiedTypeName name="com.it.oops.Q2AbstractConst"/>
     <fullyQualifiedTypeName name="com.it.oops.Q2AbstractConstMain"/>
@@ -39,8 +33,6 @@
     <fullyQualifiedTypeName name="com.it.pradhan.lambda.Car"/>
     <fullyQualifiedTypeName name="com.it.pradhan.lambda.Vehicle"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
-    <fullyQualifiedTypeName name="java.util.function.Predicate"/>
-    <fullyQualifiedTypeName name="java.util.function.Function"/>
     <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
     <fullyQualifiedTypeName name="com.it.pradhan.streamQuestions.BananaTree"/>
     <fullyQualifiedTypeName name="com.it.pradhan.streamQuestions.A"/>
@@ -55,9 +47,17 @@
     <fullyQualifiedTypeName name="com.it.pradhan.streamQuestions.ThreadExample"/>
     <fullyQualifiedTypeName name="com.it.pradhan.streamQuestions.ThreadExample2"/>
     <fullyQualifiedTypeName name="java.util.Comparator"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.Collections"/>
     <fullyQualifiedTypeName name="com.it.pradhan.streamQuestions.MyComparator"/>
+    <fullyQualifiedTypeName name="com.it.pradhan.streamQuestions.Left"/>
+    <fullyQualifiedTypeName name="com.it.pradhan.streamQuestions.Right"/>
+    <fullyQualifiedTypeName name="com.it.pradhan.streamQuestions.Main"/>
+    <fullyQualifiedTypeName name="com.it.pradhan.streamQuestions.PredicateEx1"/>
+    <fullyQualifiedTypeName name="java.util.function.Predicate"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.function.Function"/>
+    <fullyQualifiedTypeName name="com.it.pradhan.streamQuestions.StudentFunctionalInterfaceEx6"/>
 </qualifiedTypeNameHistroy>
