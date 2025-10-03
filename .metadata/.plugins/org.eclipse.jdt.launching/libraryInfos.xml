@@ -24,4 +24,5 @@
             <entry path="/Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/endorsed"/>
         </endorsedDirs>
     </libraryInfo>
+    <libraryInfo home="/opt/homebrew/Cellar/openjdk/25/libexec/openjdk.jdk/Contents/Home" version="25"/>
 </libraryInfos>

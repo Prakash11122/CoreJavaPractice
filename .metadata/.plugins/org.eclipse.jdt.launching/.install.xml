@@ -2,4 +2,5 @@
 <dirs>
     <entry loc="/Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home" stamp="1712282510513"/>
     <entry loc="/Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home" stamp="1721921969000"/>
+    <entry loc="/opt/homebrew/Cellar/openjdk/25/libexec/openjdk.jdk/Contents/Home" stamp="1755018936000"/>
 </dirs>
